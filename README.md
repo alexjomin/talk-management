@@ -1,8 +1,4 @@
-# talk-management
-
 # Devenir manager dans le milieu de la tech
-
-[TOC]
 
 ## Qui suis-je ?
 
