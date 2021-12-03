@@ -8,6 +8,10 @@ Je m'appelle Alexandre JOMIN et je suis CTO chez [Azfalte](https://www.azfalte.c
 
 Devfest 2021 Lille - 19/11/2021
 
+## Slides
+
+https://alexjomin.github.io/talk-management/
+
 ## Intro
 Vous aurez peut être dans votre carrière à un moment ou un autre la proposition de prendre un poste de Manager.
 
