@@ -504,3 +504,14 @@ C'est aussi se mettre à disposition d'une équipe afin qu'elle puisse atteindre
 
 Enfin Un autre point hyper important c'est d'être à l'écoute et bienveillant, pour donner aux membres de l'équipe le cadre le plus favorable pour réussir dans leur missions.
 
+## Evolutions / Pistes de réflexion
+
+### les limites / critique du management
+
+Les influences nazies du management moderne 
+	+ https://www.youtube.com/watch?v=04LT2GUMpgs
+	+ https://www.youtube.com/watch?v=OER1YBbEoQE
+
+Denis Rivière : le mensonge du management
+	+ https://www.youtube.com/watch?v=CTTHQTLlrVY
+
